@@ -1,7 +1,7 @@
 {
     "type": "module",
     "name": "vikk-bun",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Generates a Vikk app using bun",
     "main": "index.js",
     "repository": {
@@ -9,7 +9,7 @@
         "url": "git+https://github.com/vikkjs/vikk-bun.git"
     },
     "bin": {
-        "create-solojsx-app-bun": "index.js"
+        "vikk-bun": "index.js"
     },
     "keywords": [
         "vikk"
